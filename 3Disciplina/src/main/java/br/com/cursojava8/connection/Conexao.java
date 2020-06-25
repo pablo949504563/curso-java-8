@@ -11,7 +11,7 @@ public class Conexao {
 	
 	private static final String URL_CONEXAO = "jdbc:mysql://localhost/curso-java?useTimezone=true&serverTimezone=UTC";
 	private static final String USUARIO = "root";
-	private static final String SENHA = "!ndr@AdmR0b0#2019";
+	private static final String SENHA = "";
 	
 	
 	public static Connection getConexao() {
